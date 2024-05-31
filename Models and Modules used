@@ -1,0 +1,13 @@
+# Modules Used
+
+pandas - used to perform data manipulation and analysis.
+numpy - used to perform a wide variety of mathematical operations on arrays.
+matplotlib - used for data visualization.
+seaborn - built on top of matplotlib with similar functionalities.
+warnings - to manipulate warnings details
+filterwarnings('ignore') is to ignore the warnings thrown by the modules (gives clean results).
+%matplotlib - to enable the inline plotting.
+
+# Models for Training and Testing
+
+To perform Model Training we have used several different models like Logistic Regression, Random Forest, XGBoost, etc
